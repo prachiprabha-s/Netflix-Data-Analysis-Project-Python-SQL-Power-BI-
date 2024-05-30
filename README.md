@@ -1,6 +1,7 @@
 #OVERVIEW:
 
 --> An ELT data analysis project. The analysis was conducted on the Netflix dataset to gain insights into various aspects of the content available on the platform using Python to extract,transform and load into SQL for further data cleaning, transforming and analysis.
+
 --> At the end followed by data visualization using Power BI.
 
 #Key Findings and Analysis:
@@ -39,3 +40,7 @@
 
 1) Directors who have created content in multiple genres (e.g., comedy and horror) were identified, showcasing versatile creators.
 2) Top genres by number of releases and their associated directors were listed, giving insights into genre-specific popularity.
+
+#Recommendations
+
+Focus on acquiring and promoting content from high-demand countries and genres, collaborating more with top directors and popular actors. Tailor marketing strategies based on regional preferences and invest in localized content. Encourage genre diversification among directors and invest in emerging popular genres to stay ahead of market trends.
